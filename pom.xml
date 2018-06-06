@@ -3,8 +3,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.springframework</groupId>
-    <artifactId>jb-hello-world-maven</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>jb-hello-world-22.33.444.555.666..563635..43535.455maven</artifactId>
+    <packaging>jar</packaging>:w
     <version>0.1.0</version>
 
     <!-- tag::joda[] -->
@@ -38,7 +38,7 @@
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>hello.HelloWorld</mainClass>
-                                </transformer>
+                                </transformer> 
                             </transformers>
                         </configuration>
                     </execution>
